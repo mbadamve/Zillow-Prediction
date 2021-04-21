@@ -71,7 +71,7 @@ Results
 
 I have used HistGradientBoostingRegressor from sklearn that produced amazing results. 
 
-[Final Result](result.png)
+![Final Result](result.png)
 
 References
 ----------
